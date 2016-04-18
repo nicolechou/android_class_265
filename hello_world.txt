@@ -1,1 +1,2 @@
-hi ! android class 
+hi ! android class. Hello world
+Hello world
